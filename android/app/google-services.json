@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39829619804",
+    "project_id": "crew-brew-pref",
+    "storage_bucket": "crew-brew-pref.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39829619804:android:50e4b3f80a6874959d1299",
+        "android_client_info": {
+          "package_name": "com.yamini.crew_brew_pref"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39829619804-1mh7bil7burgpe94qo8du9dn93ja5gju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9l_bcR4JK5u-P-HSwQVeJZ4H4vZdouN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39829619804-1mh7bil7burgpe94qo8du9dn93ja5gju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
